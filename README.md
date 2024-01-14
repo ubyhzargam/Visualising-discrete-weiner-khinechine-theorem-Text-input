@@ -17,3 +17,4 @@ The Power Spectral Density (PSD) is computed using the Fast Fourier Transform (F
 Plotting:
 The results are displayed through multiple plots, including the original bitstream, pulse shaping filter, modulated signal, autocorrelation, and PSD.
 Different colors are used in the plots to enhance visualization and distinguish between different components.
+Here is a video demostration of the same : https://drive.google.com/file/d/1r_8A-Vau2tPglWFxH0J8-epX7NTFHWDU/view?usp=sharing
